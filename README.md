@@ -33,4 +33,7 @@ Use the search function to explore! <br> <br>
 ## Contact: <br>
 Ekta Vats <br>
 Centre for Digital Humanities, Department of ALM, Uppsala University <br>
-ekta.vats@abm.uu.se
+ekta.vats@abm.uu.se <br> <br>
+Matti La Mela <br>
+Department of ALM, Uppsala University
+
