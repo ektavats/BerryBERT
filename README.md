@@ -34,8 +34,4 @@ More information about the pilot projects can be found [here](https://www.abm.uu
 
 ## Contact: <br>
 Ekta Vats <br>
-Centre for Digital Humanities, Department of ALM, Uppsala University <br>
-ekta.vats@abm.uu.se <br> <br>
-Matti La Mela <br>
-Department of ALM, Uppsala University
-
+ektavats@gmail.com <br>
